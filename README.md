@@ -1,6 +1,8 @@
 AngularWeb
 ==========
 
-Learning Angular JS
+Angular JS for web end programming
 
-Following a online traning tutorial
+Increase the modualrity and agility of client end programming
+
+--Following a online traning tutorial
